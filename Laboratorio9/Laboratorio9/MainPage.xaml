@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Laboratorio9.MainPage">
+
+    <StackLayout>
+        <Button x:Name="Item1" Text="Ejemplos de Tap"/>
+        <Button x:Name="Item2" Text="Ejemplos de Pinch"/>
+        <Button x:Name="Item3" Text="Ejemplos de Swipe"/>
+        <Button x:Name="Item4" Text="Ejemplos con el Zoom"/>
+        <Button x:Name="Item5" Text="DisplayAlert"/>
+    </StackLayout>
+
+</ContentPage>
